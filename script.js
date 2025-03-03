@@ -1086,6 +1086,8 @@ function LoadQuiz(){
 
   for(const key in checkBoxes){
     let chList = checkBoxes[key];
+    console.log(key.toString())
+    console.log(key)
     for(let i = 0; i < vocab[key].length; i++){
       if(chList.includes(vocab[key][i].name)){
         for(let _ in vocab[key][i].words){
