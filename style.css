@@ -1,0 +1,86 @@
+.unitDiv{
+  width: 90%;
+  margin: auto;
+  padding-bottom: 10px;
+}
+
+.checkboxDiv{
+  background-color: rgb(151, 151, 151);
+  width: 23%;
+  border: 2px solid black;
+
+  position: absolute;
+  top: 5px;
+  right: 8px;
+}
+
+.questionSlider{
+  -webkit-appearance: none;  /* Override default CSS styles */
+  appearance: none;
+  width: 40%; /* Full-width */
+  height: 3%; /* Specified height */
+  background: #d3d3d3; /* Grey background */
+  outline: none; /* Remove outline */
+  transition: opacity .4s;
+  opacity: 0.6; /* Set transparency (for mouse-over effects on hover) */
+}
+.questionSlider:hover {
+  transition: opacity .4s;
+  opacity: 1; /* Set transparency (for mouse-over effects on hover) */
+}
+.questionSlider::-webkit-slider-thumb {
+  -webkit-appearance: none; /* Override default look */
+  appearance: none;
+  width: 2%; /* Set a specific slider handle width */
+  height: 100%; /* Slider handle height */
+  background: #000000; /* Green background */
+}
+
+.ansBox{
+  font-size: 0px;
+  width: 100%;
+  height: 30%;
+
+  margin: auto;
+
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 5px;
+  grid-row-gap: 5px;
+}
+
+.ansBut{
+  transition: background-color .5s ease-in-out;
+  background-color: gray;
+
+  border: 0px solid transparent;
+
+  /* width: 47%; */
+  /* height: 47%; */
+
+}
+
+.incorrectAns{
+  background-color: rgb(255, 52, 52);
+}
+.correctAns{
+  background-color: lime;
+}
+
+.qNum{
+  justify-self: center;
+  margin: auto;
+}
+.questionOptionBox{
+  width: 70%;
+  border: 3px solid black;
+
+  align-items: center;
+}
+
+h2{
+  font-size: 20px;
+  text-align: center;
+  margin: auto;
+}
