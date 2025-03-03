@@ -1,6 +1,6 @@
 {
-  "Unit 1":[
-    {"name":"Chapter 1",
+  "Unit_1":[
+    {"name":"Chapter_1",
       "words": {
         "Need":"basic requirement for survival",
         "Want":"goods or services we justify as needs but are not needed",
@@ -33,7 +33,7 @@
         "Free Enterprise Economy":"Consumers and privately owned buisnesses make a majority of economic decisions"
       }
     },
-    {"name":"Chapter 2",
+    {"name":"Chapter_2",
       "words" :{
         "Economic System":"Organized way in which a society provides for the wants and needs of its people",
         "Free Enterprise Economy":"One of which consumers and privately owned buisnesses make the majority of economic decisions",
@@ -54,8 +54,8 @@
       }
     }
   ],
-  "Unit 2":[
-    {"name":"Chapter 4: Demand",
+  "Unit_2":[
+    {"name":"Chapter_4: Demand",
       "words":{
         "Demand":"The desire, ability, and willingness to buy a product",
         "Demand Schedule":"Listing that shows the various quantities demanded of a particular product at al prices that might prevail the market at a given time",
@@ -67,10 +67,10 @@
         "Demand Elasticity":"The extent to which a change in price causes a change in the quantity demanded",
         "Elastic Demand":"When a given change in price causes a relatively larger change in quantity demanded",
         "Inelastic Demand":"A given change in price causees a relatively smaller chang ein the quantity demanded",
-        "Unit Elastic":"A given change in price causes a proportional change in quantity demanded"
+        "Unit_Elastic":"A given change in price causes a proportional change in quantity demanded"
       }
     },
-    {"name":"Chapter 5: Supply",
+    {"name":"Chapter_5: Supply",
       "words":{
         "Supply":"The amount of a product that would be offered for sale at all possible prices that could prevail in the market",
         "Law of Supply":"The principle that suppliers will normally offer more for sale at high prices and less at lower prices",
@@ -104,7 +104,7 @@
         "Profit-Maximizing quantity of output":"When marginal cost and marginal revenue are even"
       }
     },
-    {"name":"Chapter 6: Supply and Demand",
+    {"name":"Chapter_6: Supply and Demand",
       "words":{
         "Price":"The monetary value of a product as established by supply and demand",
         "Rationing":"A system under which and agency such as government decides everyone's \"fair\" share",
@@ -123,8 +123,8 @@
       }
     }
   ],
-  "Unit 3":[
-    {"name":"Chapter 3",
+  "Unit_3":[
+    {"name":"Chapter_3",
       "Words":{
         "Sole Proprietorship":"A buisness owned and run by one person",
         "Partnership":"A buisness jointly owned by two or more persons",
@@ -147,7 +147,7 @@
         "Chamber of Commerce":"Promotes the welfare of its members and of the community"
       }
     },
-    {"name":"Chapter 7",
+    {"name":"Chapter_7",
       "words":{
         "Bull Market":"When the stock market has an upward trend",
         "Bear Market":"When the stock market has a downward trend",
@@ -168,7 +168,7 @@
         "Positive Externality":"The benefir received by smoeone who had nothing to do with the activity that generated the benefit"
         }
     },
-    {"name":"Chapter 12",
+    {"name":"Chapter_12",
       "words":{
         "Savings":"Refers to the dollers that become available when people abstain from consumption",
         "Financial System":"A network of savers, investors, and financial institutions that work together to transfer savings to investors",
@@ -219,8 +219,8 @@
       }
     }
   ],
-  "Unit 4":[
-    {"name":"Chapter 8",
+  "Unit_4":[
+    {"name":"Chapter_8",
       "words":{
         "Macroeconomics":"Branch of economics that deals with the economy as a whole",
         "Civilian Labor Force":"Men and women 16 years and older either working or actively looking for work",
@@ -261,7 +261,7 @@
         "Set-Aside Contract":"Guaranteed contract reserved exclusively for a targeted group"
       }
     },
-    {"name":"Chapter 9",
+    {"name":"Chapter_9",
       "words":{
         "Sin Tax":"Relatively high tax designed to raise revenue and reduce ocnsumption foa socially undesirable product",
         "Incidence of Tax":"Final burden of the tax",
@@ -288,7 +288,7 @@
         "Estate Tax":"Tax the government levies on the transfer of a property worth over $2 million when a person dies"
       }
     },
-    {"name":"Chapter 10",
+    {"name":"Chapter_10",
       "words":{
         "Per Capita":"Per Person",
         "Public Sector":"The part of the economy made up of federal, state, and local governments",
@@ -320,35 +320,35 @@
         "Efficiency":"Ease of administration and successful at generating revenue"
       }
     },
-    {"name":"Chapter 13",
+    {"name":"Chapter_13",
       "words":{
 
       }
     },
-    {"name":"Chapter 14",
+    {"name":"Chapter_14",
       "words":{
 
       }
     },
-    {"name":"Chapter 16",
+    {"name":"Chapter_16",
       "words":{
 
       }
     }
   
   ],
-  "Unit 5":[
-    {"name":"Chapter 15",
+  "Unit_5":[
+    {"name":"Chapter_15",
       "words":{
 
       }
     },
-    {"name":"Chapter 17",
+    {"name":"Chapter_17",
       "words":{
 
       }
     },
-    {"name":"Chapter 11",
+    {"name":"Chapter_11",
       "words":{
 
       }
