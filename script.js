@@ -1,5 +1,6 @@
 var vocab = null;
 function OnLoad(){
+  vocab = "Error retreiving json"
   fetch("Vocab.json")
     .then(res => res.json())
     .then(res => {vocab = res})
