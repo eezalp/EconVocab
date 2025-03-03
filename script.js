@@ -1029,7 +1029,7 @@ function GenMCQDef(){
   answer = notUsed[ansInd];
   correctIndex = Randrange(0, 3);
   while(answers.length < 3){
-    let tmp = terms[Randrange(0, notUsed.length - 1)];
+    let tmp = terms[Randrange(0, terms.length - 1)];
     if(tmp.word != answer.word && tmp.definition != answer.definition){
       answers.push(tmp);
     }
@@ -1111,6 +1111,7 @@ function OnLoad(){
   questionSlider = document.getElementById("questionSlider");
 
   quizDiv.hidden = true;
+  resultsDiv.hidden = true;
 }
 
 function SliderChange(val){
